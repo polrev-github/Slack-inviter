@@ -7,7 +7,7 @@ html,body{
 margin:0;
 padding:0;
 font-family: 'Open Sans', sans-serif;
-background: #04243E;
+background: #04243E url(../images/slack-logo.jpg) center top no-repeat;
 background-size: cover;
 height: 100%;
 width: 100%;
@@ -36,11 +36,6 @@ float: left;
 .header{
 	margin-top: 160px;
 	margin-bottom: 40px;
-}
-
-
-h1:before{
- content: url(../images/slack-logo.jpg) no-repeat;
 }
 
 h1{
