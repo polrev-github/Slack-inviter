@@ -40,7 +40,7 @@ float: left;
 
 
 h1:before{
- background: url(../images/slack-logo.jpg) no-repeat;
+ content: url(../images/slack-logo.jpg) no-repeat;
 }
 
 h1{
