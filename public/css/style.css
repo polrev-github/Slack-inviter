@@ -39,6 +39,10 @@ float: left;
 }
 
 
+h1:before{
+ background: url(../images/slack-logo.jpg) no-repeat;
+}
+
 h1{
 font-family: 'Open Sans', sans-serif;
 color: #fff;
